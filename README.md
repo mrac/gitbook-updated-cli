@@ -1,4 +1,8 @@
-# gitbook-cli
+# gitbook-updated-cli
+
+**gitbook-updated-cli** is a fork of deprecated [gitbook-cli](https://github.com/GitbookIO/gitbook-cli).
+
+The purpose of the fork is to keep the dependencies up to date.
 
 [![NPM version](https://badge.fury.io/js/gitbook-cli.svg)](http://badge.fury.io/js/gitbook-cli)
 [![Linux Build Status](https://travis-ci.org/GitbookIO/gitbook-cli.png?branch=master)](https://travis-ci.org/GitbookIO/gitbook-cli)
@@ -9,7 +13,7 @@
 Install this globally and you'll have access to the gitbook command anywhere on your system.
 
 ```
-$ npm install -g gitbook-cli
+$ npm install -g gitbook-updated-cli
 ```
 
 **Note:** The purpose of the gitbook command is to load and run the version of GitBook you have specified in your book (or the latest one), irrespective of its version. The GitBook CLI only support versions `>=2.0.0` of GitBook.
@@ -19,7 +23,7 @@ $ npm install -g gitbook-cli
 ## How to install it?
 
 ```
-$ npm install -g gitbook-cli
+$ npm install -g gitbook-updated-cli
 ```
 
 ## How to use it?
